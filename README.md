@@ -3,9 +3,9 @@
 ## Project Overview
 This project evaluates the performance of the RAG (Retrieval-Augmented Generation) model enhanced with a Cross Encoder Reranker, using the Zephyr 7B Alpha 5 bit Quantised model (BAAI/bge-small-en-v1.5). The model was tested with a comprehensive document titled "Brains in Space: Effects of Spaceflight on the Human Brain and Behavior" spanning 311 pages.
 
-![Results](Advanced-RAG-with-Cross-Encoder-Reranker.png) 
+![Results](Advanced%20RAG%20with%20Cross%20Encoder%20Reranker.png) 
 
-<img src="Advanced-RAG-with-Cross-Encoder-Reranker.png" alt="Alt text for the image">
+
 ## Test Methodology
 Three questions were posed to assess the model's understanding and contextual accuracy:
 
